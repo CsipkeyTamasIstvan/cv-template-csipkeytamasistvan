@@ -178,19 +178,19 @@ img.floatLeft {
 }
 #name_tittle h1{
 	font-family: 'PT Sans Narrow', cursive;
-	color: #022E63;
-	font-size: 85px;
+	color: #6bb3c5;
+	font-size: 32px;
 	text-align:left;
 	font-weight:bold;
 }
 #name_tittle ul{
 	color: #74767A;
     font-family: 'PT Sans',sans-serif;
-    font-size: 36px;
+    font-size: 26px;
     font-weight: bold;
     line-height: 1.0em;
     list-style-type: none;
-    margin: -24px 0 0 -31px;
+    margin: -5px 0 0 -31px;
     text-align: left;
 }
 #name_tittle li{
@@ -268,7 +268,7 @@ img.floatLeft {
 	
 }
 .ribbon2{
-    color: #1b579e;
+    color: #7393B3;
     font-size: 30px;
     width: 390px;
 	font-family: 'PT Sans Narrow', cursive;
@@ -279,7 +279,7 @@ img.floatLeft {
 
 .ribbon_portfolio{
 	border-bottom: 3px dotted #BEBEBE;
-    color: #1B579E;
+    color: #7393B3;
     font-family: 'PT Sans Narrow',cursive;
     font-size: 30px;
     font-weight: bold;
@@ -373,32 +373,32 @@ img.floatLeft {
 .html{
 	height:22px;
 	width:0px;
-	background-color:#1b579e;
+	background-color:#6bb3c5;
 }
 .css{
 	height:22px;
 	width:0px;
-	background-color:#1b579e;
+	background-color:#6bb3c5;
 	}
 .java{
 	height:22px;
 	width:0px;
-	background-color:#1b579e;
+	background-color:#6bb3c5;
 }
 .cms{
 	height:22px;
 	width:0px;
-	background-color:#461B7E;
+	background-color:#6bb3c5;
 }
 .seo{
 	height:22px;
 	width:0px;
-	background-color:#461B7E;
+	background-color:#6bb3c5;
 }
 .php{
 	height:22px;
 	width:0px;
-	background-color:#1b579e;
+	background-color:#6bb3c5;
 }
 /* ===jQuery lightBox plugin - Gallery style ===*/	
 
@@ -463,14 +463,14 @@ img.floatLeft {
 }
 
 #contact-area textarea:focus, #contact-area input:focus {
-	border: 1px solid #022E63;
+	border: 1px solid #89CFF0;
 }
 
 #contact-area input.submit-button {
 	width: 100px;
 	float: right;
 	margin: 0 36px 0 0;
-	background-color: #022E63;
+	background-color: #89CFF0;
 	color:#FFFFFF;
 	font-family: 'PT Sans Narrow',sans-serif;
     font-size: 18px;
@@ -487,7 +487,7 @@ label {
 
 /* ===WHY ME  ===*/	
 .why_me h1{
-    color: #022E63;
+    color: #89CFF0;
     font-family: 'PT Sans Narrow',cursive;
     font-size: 24px;
     margin: 0 0 0 18px;
